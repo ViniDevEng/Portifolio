@@ -14,7 +14,7 @@ hr{
 }
 
 .header {
-  background-image: url('/Portifolio/img/backgrounds/bg_header.png');
+  background-image: url('bg_header.png');
   background-size: cover;
   background-position: center;
   color: white;
@@ -25,7 +25,8 @@ hr{
 
 .menu {
   position: fixed;
-  top: 10px;
+  position: fixed;
+  top: 15px;
   left: 50%;
   transform: translateX(-50%);
   background-color: #1e1e1e;
@@ -80,7 +81,7 @@ hr{
 
   .menu {
     top: 10px;
-    right: 500px;
+    right: 10px;
   }
 
   .slogan {
@@ -112,21 +113,21 @@ hr{
 }
 
 .card {
-  background-color: #191919;
+  background-color: #1e1e1e;
   border: 1px solid #323232;
   border-radius: 10px;
-  padding: 30px 20px;
+  padding: 30px 0px;
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.2s ease;
-  color: #15958c;
+  color:#15958c;
 }
 
 .card img {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   margin-bottom: 10px;
 }
 
@@ -176,7 +177,9 @@ hr{
 
 .contact-section {
   padding: 40px 20px;
-  background-color: #000000;
+  background-image: url('bg_footer.png');
+  background-size: cover;
+  background-position: center;
   text-align: center;
   font-family: "Courier New", Courier, monospace;
   color: white;
