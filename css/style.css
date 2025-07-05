@@ -14,7 +14,7 @@ hr{
 }
 
 .header {
-  background-image: url('./img/backgrounds/bg_header.png');
+  background-image: url('/Portifolio/img/backgrounds/bg_header.png');
   background-size: cover;
   background-position: center;
   color: white;
