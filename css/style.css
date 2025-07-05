@@ -30,7 +30,6 @@ hr{
   background-color: #1e1e1e;
   padding: 15px;
   border-radius: 15px;
-  margin-right: 35%;
 }
 
 .nav {
@@ -80,7 +79,7 @@ hr{
 
   .menu {
     top: 10px;
-    right: 10px;
+    right: 500px;
   }
 
   .slogan {
