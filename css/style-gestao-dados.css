@@ -90,3 +90,12 @@
     .welcome-popup button:hover {
       background-color: #15958c;
     }
+
+.step a {
+  color: white;
+  text-decoration: none;
+}
+
+.step a:hover{
+  color: #15958c;
+}
